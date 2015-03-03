@@ -1,0 +1,23 @@
+*_How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+Pues es un método curioso, porque si miraras uno por uno, en unos textos tan largos, podrías volverte loco. Que haya un método
+que lo haga automáticamente es un verdadero acierto
+
+*_How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+Pues mira, no tengo ni idea de cómo va a influirme para ser mejor programador, de hecho no he programado casi nada en mi
+vida como para considerarme 2programador". Pero claro, si consideramos que algo escrito antes funciona mejor que la nueva 
+versión es interesante poder volver a atrás de algún modo...
+
+*_What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions
+automatically saved, like Google docs does?
+
+En los pros claramente se encuentran que puedes guardar o salvar en los momentos clave, cuando se han hecho cambios 
+significativos en el programa. Al guardar de forma automática se puede guardar a mitad de un cambio y enntonces no tener 
+un significado claro el archivo guardado.
+
+*_Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google 
+Docs, treat each file separately?
+
+Muchas veces puede haber una correlación o dependencia entre archivos que haga necesario considerarlos a todos en conjunto
+en vez de por separado

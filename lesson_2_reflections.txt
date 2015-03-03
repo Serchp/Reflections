@@ -10,3 +10,7 @@ Está a mitad de camino entre el working directory y el repository. De esta form
 *_How can you use the staging area to make sure you have one commit per logical change?
 
 Hago cambios en el archivo que quiera (está en el working directory), o los archivos!!, luego git add el archivo o archivos que quiera commitear al staging area (pondré los que compongan una modificación lógica) y luego commiteo: se guardará lo que haya incorporado al staging area.
+
+*_What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Puedo ir creando branches que salgan del branch principal (master) cuando quiero ir probando cosas nuevas, experimentar con cosas nuevas que no quiero que me modifiquen el programa entero; cuando desarrollo software en otro idioma, etc.

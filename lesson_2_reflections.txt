@@ -1,0 +1,10 @@
+*_What happens when you initialize a repository? Why do you need to do it?
+
+Esto de acabar las lecciones a medias hace que me pierda. No sé exactamente qué me está preguntando.
+Pues parece que se crea una carpeta .git que está oculta. No hace ningún commit, de hecho cuando haces un git status te muestra que no los hay.
+
+*_How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Está a mitad de camino entre el working directory y el repository. De esta forma te da mayor control sobre lo que añades y sobretodo comiteas en el repositorio
+
+git add lesson_2_reflections.txt

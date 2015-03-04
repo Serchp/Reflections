@@ -1,23 +1,28 @@
 *_How did viewing a diff between two versions of a file help you see the bug that was introduced?
 
-Pues es un mÈtodo curioso, porque si miraras uno por uno, en unos textos tan largos, podrÌas volverte loco. Que haya un mÈtodo
-que lo haga autom·ticamente es un verdadero acierto
+Pues es un m√©todo curioso, porque si miraras uno por uno, en unos textos tan largos, podr√≠as volverte loco. Que haya un m√©todo que lo haga autom√°ticamente es un verdadero acierto
 
 *_How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
 
-Pues mira, no tengo ni idea de cÛmo va a influirme para ser mejor programador, de hecho no he programado casi nada en mi
-vida como para considerarme 2programador". Pero claro, si consideramos que algo escrito antes funciona mejor que la nueva 
-versiÛn es interesante poder volver a atr·s de alg˙n modo...
+Pues mira, no tengo ni idea de c√≥mo va a influirme para ser mejor programador, de hecho no he programado casi nada en mi vida como para considerarme "2"programador". Pero claro, si consideramos que algo escrito antes funciona mejor que la nueva versi√≥n es interesante poder volver a atr√°s de alg√∫n modo...
 
-*_What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions
-automatically saved, like Google docs does?
+*_What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
 
-En los pros claramente se encuentran que puedes guardar o salvar en los momentos clave, cuando se han hecho cambios 
-significativos en el programa. Al guardar de forma autom·tica se puede guardar a mitad de un cambio y enntonces no tener 
-un significado claro el archivo guardado.
+En los pros claramente se encuentran que puedes guardar o salvar en los momentos clave, cuando se han hecho cambios significativos en el programa. Al guardar de forma autom√°tica se puede guardar a mitad de un cambio y enntonces no tener un significado claro el archivo guardado.
 
-*_Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google 
-Docs, treat each file separately?
+*_Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
 
-Muchas veces puede haber una correlaciÛn o dependencia entre archivos que haga necesario considerarlos a todos en conjunto
-en vez de por separado
+Muchas veces puede haber una correlaci√≥n o dependencia entre archivos que haga necesario considerarlos a todos en conjunto en vez de por separado
+
+*_How can you use the commands git log and git diff to view the history of files?
+
+El git log lo utilizo para ver todos los commits que se han realizado, es decir para ver los puntos de guardado. Cuando voy leyendo el log puedo averiguar donde se han realizado los cambios que me interesan y ver el ID. Con el git diff ID1 ID2 averiguo las diferencias entre dos commits
+
+*_How might using version control make you more confident to make changes that could break something?
+
+ No s√© si a estas alturas estoy muy "confident" pero al menos con el git checkout puedo viajar entre commits y as√≠ ir viendo d√≥nde puede estar el error.
+
+ *_Now that you have your workspace set up, what do you want to try using Git for?
+
+ Bueno, todav√≠a no tengo el workspace como quiero, los cambios (colores y descripci√≥n en el prompt que deber√≠a conseguir seg√∫n el tuto de Udacity no me sale), tengo una discrepancia entre el clickderecho desde el escritorio y abrir el programa en windowsbash...
+ Pues quiero aprender y usar el git para desarrollar programas propios!

@@ -18,3 +18,7 @@ Puedo ir creando branches que salgan del branch principal (master) cuando quiero
 *_How do the diagrams help you visualize the branch structure?
 
 Con los diagramas puedo ver de forma gráfica y por tanto de forma más sencilla la estructura de los branches: el principal y los secundarios así como los commits de cada una de las ramas
+
+*_What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+El resultado es que se unifican las dos branches, se incorporan todos los cambios realizados en cada una de ellas pero se mantienen los pasos o commits que se han ido poniendo para así poder seguir la evolución.

@@ -22,3 +22,7 @@ Con los diagramas puedo ver de forma gráfica y por tanto de forma más sencilla
 *_What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 El resultado es que se unifican las dos branches, se incorporan todos los cambios realizados en cada una de ellas pero se mantienen los pasos o commits que se han ido poniendo para así poder seguir la evolución.
+
+*_What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+No sé qué es el automático y cuál el manual

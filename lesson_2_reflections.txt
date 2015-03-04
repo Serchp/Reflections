@@ -14,3 +14,7 @@ Hago cambios en el archivo que quiera (está en el working directory), o los arc
 *_What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 Puedo ir creando branches que salgan del branch principal (master) cuando quiero ir probando cosas nuevas, experimentar con cosas nuevas que no quiero que me modifiquen el programa entero; cuando desarrollo software en otro idioma, etc.
+
+*_How do the diagrams help you visualize the branch structure?
+
+Con los diagramas puedo ver de forma gráfica y por tanto de forma más sencilla la estructura de los branches: el principal y los secundarios así como los commits de cada una de las ramas

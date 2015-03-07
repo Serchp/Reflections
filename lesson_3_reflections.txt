@@ -6,3 +6,7 @@ Pues cuando tenga que colaborar en un repositorio con alguien más.
 
 El repository en GitHub puede estar siendo trabajado/actualizado por otros usuarios, y puedo no querer que se me actualice solo cada vez que alguien haga un cambio.
 
+*_Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Fork es un término para definir un clone de repositorio hecho desde GitHub, es un clone via web sin pasar por el local; el repositorio forkeado cuantifica las veces que lo ha sido y aquel que es copia se marca con información del original. Eso no sucede cuando lo que se realiza es una clonación en dos pasos: we-local-web. Las branches son las ramas a las que se les va haciendo commits
+
